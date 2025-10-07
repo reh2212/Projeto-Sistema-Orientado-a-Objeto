@@ -7,7 +7,6 @@ Repositório criado para armazenar os diagramas e artefatos desenvolvidos na dis
 ## 📂 Estrutura do Repositório
 - `diagramas/` → contém os diagramas UML (caso de uso, classes, sequência, atividades, etc).
 - `docs/` → documentos de apoio, especificações e descrições do projeto.
-- `src/` → exemplos de código relacionados ao projeto.
 
 ---
 
@@ -37,12 +36,13 @@ O objetivo é aplicar os conceitos de **análise e projeto orientado a objetos**
 
 ## 🚀 Tecnologias Utilizadas
 - UML (StarUML, Draw.io, Lucidchart ou outra ferramenta)
-- Linguagem: HTML ; CSS ; C# ; PYTHON ;
+- Linguagem: HTML ;
 - Git & GitHub para versionamento
 
 ---
 
 ## 👩‍💻 Autora
 [Renata Honorato Siqueira - RA : R187DJ0](https://github.com/reh2212)
+
 
 
